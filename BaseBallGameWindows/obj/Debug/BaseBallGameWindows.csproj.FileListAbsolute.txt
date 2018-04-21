@@ -1,0 +1,11 @@
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\bin\Debug\BaseBallGameWindows.exe.config
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\bin\Debug\BaseBallGameWindows.exe
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\bin\Debug\BaseBallGameWindows.pdb
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.Form1.resources
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.Properties.Resources.resources
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.exe
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.pdb
+C:\Users\Mirim\source\repos\BaseBallGameWindows\BaseBallGameWindows\obj\Debug\BaseBallGameWindows.BaseGame.resources
